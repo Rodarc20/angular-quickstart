@@ -5,7 +5,7 @@
         "moduleResolution": "node",
         "sourceMap": true,
         /*"emitDecorationMetadata": true,
-        "removeComponents": false,*/
+        "removeComponents": false,esto esta mal escrito */
         "experimentalDecorators": true,
         "noImplicitAny": false
     },
