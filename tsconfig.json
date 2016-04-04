@@ -4,9 +4,9 @@
         "module": "system",
         "moduleResolution": "node",
         "sourceMap": true,
-        "emitDecorationMetadata": true,
+        /*"emitDecorationMetadata": true,
+        "removeComponents": false,*/
         "experimentalDecorators": true,
-        "removeComponents": false,
         "noImplicitAny": false
     },
     "exclude": [
